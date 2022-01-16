@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+  boistoolbox:
+    build: .
+    env_file:
+      - .env
+    volumes:
+      - /home/ubuntu/BoisBot/data:/app
+
+networks:
+  default:
+    external:
+      name: aqua

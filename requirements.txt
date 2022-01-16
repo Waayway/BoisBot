@@ -1,0 +1,14 @@
+aiohttp==3.7.4.post0
+async-timeout==3.0.1
+attrs==21.4.0
+beautifultable==1.0.1
+chardet==4.0.0
+filelock==3.4.2
+idna==3.3
+jsondbpy==1.0
+multidict==5.2.0
+# py-cord==2.0.0a4772+gfc5556f8
+python-dotenv==0.19.2
+typing_extensions==4.0.1
+wcwidth==0.2.5
+yarl==1.7.2

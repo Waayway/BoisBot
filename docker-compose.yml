@@ -6,7 +6,7 @@ services:
     env_file:
       - .env
     volumes:
-      - /home/ubuntu/BoisBot/data:/app
+      - /home/ubuntu/BoisBot/data:/app/data
 
 networks:
   default:

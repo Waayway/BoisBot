@@ -3,6 +3,8 @@
 ToDo:
 - [ ] Give time since last killer in !list
 - [ ] Statistics
+    - [ ] Time since last time killer
+    - [ ] Amount of times killer
 - [x] killer command with @someone
 
 The .env file should look something like this.
